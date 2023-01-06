@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1672194929 source:k:\project akhir uas\main.c
+	<stdio.h>
+	<stdlib.h>
+
